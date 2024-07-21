@@ -216,3 +216,4 @@ MANIFEST
 .conda*/
 .python-version
 env/
+.webui_secret_key
