@@ -9,9 +9,10 @@
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/Capstone_project)
 -->
 
-# Capstone_project
+# Capstone project
 
-> Add a short description here!
+MathMate | Multi-Modal AI for Mathematical Learning
+
 
 A longer description of your project goes here...
 
