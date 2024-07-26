@@ -13,7 +13,6 @@
 
 MathMate | Multi-Modal AI for Mathematical Learning
 
-
 A longer description of your project goes here...
 
 ## Installation
@@ -29,7 +28,7 @@ In order to set up the necessary environment:
    conda activate Capstone_project
    ```
 
-> **_NOTE:_**  The conda environment will have Capstone_project installed in editable mode.
+> **_NOTE:_**  The conda environment will have *Capstone_project* installed in editable mode.
 > Some changes, e.g. in `setup.cfg`, might require you to run `pip install -e .` again.
 
 
