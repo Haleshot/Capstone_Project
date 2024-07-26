@@ -13,7 +13,6 @@
 
 MathMate | Multi-Modal AI for Mathematical Learning
 
-
 A longer description of your project goes here...
 
 ## Installation
