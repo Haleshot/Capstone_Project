@@ -13,7 +13,10 @@
 
 MathMate | Multi-Modal AI for Mathematical Learning
 
-A longer description of your project goes here...
+This capstone project aims to develop a multi-modal AI assistant that integrates computer vision, 
+natural language processing, and speech recognition technologies. The system will be accessible 
+through a user-friendly chatbot interface, allowing users to interact with it using text, images, or voice 
+inputs.
 
 ## Installation
 
