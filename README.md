@@ -111,6 +111,43 @@ Then take a look into the `scripts` and `notebooks` folders.
 
 <!-- pyscaffold-notes -->
 
+## TODO:
+
+## 1. Model Merging
+- [ ] Set up Lightning AI's Efficient Linear Model Merging environment
+- [ ] Download and prepare NuminaMath-7B-TIR.q6_k model
+- [ ] Download and prepare Qwen2-Math-7B-Instruct-Q6_K.gguf model
+- [ ] Research merging methodologies in mergekit repo
+- [ ] Select appropriate merging method for math-oriented models
+- [ ] Execute model merging process
+- [ ] Save and document the merged model
+
+## 2. Model Evaluation
+- [ ] Set up llm-autoeval environment
+- [ ] Define evaluation metrics focusing on mathematical capabilities
+- [ ] Prepare evaluation datasets
+- [ ] Run evaluation on the merged model
+- [ ] Document baseline performance metrics
+
+## 3. Fine-tuning Preparation
+- [ ] Gather and prepare datasets for fine-tuning
+- [ ] Set up development environment for various fine-tuning techniques
+
+## 4. ORPOO Fine-tuning
+- [ ] Set up ORPOO fine-tuning environment
+- [ ] Prepare model and data for ORPOO
+- [ ] Execute ORPOO fine-tuning
+- [ ] Evaluate model post-ORPOO
+- [ ] Document results and improvements
+
+## 5. Axolotl Fine-tuning
+- [ ] Set up Axolotl environment
+- [ ] Prepare model and data for Axolotl
+- [ ] Configure Axolotl parameters
+- [ ] Run Axolotl fine-tuning
+- [ ] Evaluate model post-Axolotl
+- [ ] Document results and improvements
+
 ## Note
 
 This project has been set up using [PyScaffold] 4.5 and the [dsproject extension] 0.7.2.
