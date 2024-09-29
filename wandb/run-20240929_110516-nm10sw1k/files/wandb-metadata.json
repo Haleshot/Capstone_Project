@@ -1,0 +1,127 @@
+{
+    "os": "Linux-5.15.0-1070-aws-x86_64-with-glibc2.31",
+    "python": "3.10.10",
+    "heartbeatAt": "2024-09-29T11:05:20.593167",
+    "startedAt": "2024-09-29T11:05:16.890927",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Haleshot/Capstone_Project.git",
+        "commit": "614cb5b772991d9d56e3429608eab4b392885053"
+    },
+    "email": "hari.leo03@gmail.com",
+    "root": "/teamspace/studios/this_studio/Capstone_Project",
+    "host": "ip-10-192-11-74",
+    "username": "zeus",
+    "executable": "/home/zeus/miniconda3/envs/cloudspace/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2851.1786875,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3330.556,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3474.541,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3174.311,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2649.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 548.9473419189453,
+            "used": 84.39478302001953
+        }
+    },
+    "gpu": "NVIDIA L4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA L4",
+            "memory_total": 24152899584
+        }
+    ],
+    "memory": {
+        "total": 60.461395263671875
+    }
+}

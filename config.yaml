@@ -1,5 +1,6 @@
 adapter: qlora
 base_model: Haleshot/Mathmate-7B-DELLA
+new_model: Haleshot/Mathmate-7B-DELLA-ORPO-everyday
 bf16: false
 dataset_prepared_path: null
 datasets:
@@ -49,7 +50,7 @@ val_set_size: 0.05
 wandb_entity: null
 wandb_log_model: null
 wandb_name: null
-wandb_project: axoltl-everyday
+wandb_project: null
 wandb_watch: null
 warmup_steps: 10
 weight_decay: 0.0
