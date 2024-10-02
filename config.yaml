@@ -1,7 +1,7 @@
 adapter: qlora
 base_model: Haleshot/Mathmate-7B-DELLA-ORPO
 new_model: Haleshot/Mathmate-7B-DELLA-ORPO-everyday
-bf16: false
+bf16: true
 dataset_prepared_path: null
 datasets:
 - path: HuggingFaceTB/everyday-conversations-llama3.1-2k
@@ -10,7 +10,7 @@ deepspeed: null
 early_stopping_patience: null
 evals_per_epoch: null
 flash_attention: false
-fp16: true
+fp16: false
 fsdp: null
 fsdp_config: null
 gradient_accumulation_steps: 1
