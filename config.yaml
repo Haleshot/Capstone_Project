@@ -33,7 +33,7 @@ lr_scheduler: cosine
 max_steps: 20
 micro_batch_size: 1
 model_type: LlamaForCausalLM
-num_epochs: 4
+num_epochs: 2
 optimizer: paged_adamw_32bit
 output_dir: ./qlora-out
 pad_to_sequence_len: true
