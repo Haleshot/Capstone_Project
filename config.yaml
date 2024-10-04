@@ -1,6 +1,6 @@
 adapter: qlora
 base_model: Haleshot/Mathmate-7B-DELLA-ORPO
-new_model: Haleshot/Mathmate-7B-DELLA-ORPO-everyday
+new_model: Haleshot/Mathmate-7B-DELLA-ORPO-C
 bf16: true
 dataset_prepared_path: null
 datasets:
