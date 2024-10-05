@@ -69,6 +69,7 @@ Then take a look into the `scripts` and `notebooks` folders.
    ```bash
    conda env update -f environment.lock.yml --prune
    ```
+4. Hope to create marimo notebooks with uvx commands which will help in isolated environments (dependency-related issues) and smooth running of notebooks.
 ## Project Organization
 
 ```
