@@ -9,6 +9,19 @@
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/Capstone_project)
 -->
 
+
+<div align="center">
+  <h1>MathMate | Multi-Modal AI for Mathematical Learning</h1>
+  <img src="https://github.com/user-attachments/assets/8070b8f6-bbfa-4e00-9ef1-7cddc753eb8d" alt="Project Logo">
+  <br>
+  <a href="https://github.com/Haleshot/Capstone_Project/issues">
+    <img src="https://img.shields.io/github/issues/Haleshot/Capstone_Project" alt="Issues Badge">
+  </a>
+  <a href="https://github.com/Haleshot/Capstone_Project/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Haleshot/Capstone_Project" alt="Pull Requests Badge">
+  </a>
+</div>
+
 # Capstone project
 
 MathMate | Multi-Modal AI for Mathematical Learning
